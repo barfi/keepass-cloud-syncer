@@ -1,6 +1,6 @@
 # KeePass cloud syncer
 
-Simple Powershell script for uploading copies of the local KeePass .kdbx file
+Simple PowerShell script for uploading copies of the local KeePass .kdbx file
 to the cloud drives.
 
 ## Features
@@ -14,7 +14,7 @@ to the cloud drives.
 ## Restrictions
 
 - Windows 10/11
-- Powershell version  5 or older
+- PowerShell version  5 or older
 - KeePass version 2.x
 
 ## Usage
